@@ -1,0 +1,4 @@
+name: PlayerKillingMoneyIndex
+version: '1.0-SNAPSHOT'
+main: org.Teev.playerKillingMoneyIndex.PlayerKillingMoneyIndex
+api-version: '1.21'
